@@ -1,0 +1,4 @@
+[2022-10-08T16:05:13.249975+07:00] Matt\PhpLogging\LevelTest.ERROR: This is Error [] []
+[2022-10-08T16:05:13.252365+07:00] Matt\PhpLogging\LevelTest.CRITICAL: This is Critical [] []
+[2022-10-08T16:05:13.252956+07:00] Matt\PhpLogging\LevelTest.ALERT: This is Alert [] []
+[2022-10-08T16:05:13.256705+07:00] Matt\PhpLogging\LevelTest.EMERGENCY: This is Emergency [] []
