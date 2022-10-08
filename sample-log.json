@@ -1,0 +1,16 @@
+{
+  "message": "Belajar PHP Logging",
+  "context": { "username": "matt" },
+  "level": 200,
+  "level_name": "INFO",
+  "channel": "Matt\\PhpLogging\\FormatterTest",
+  "datetime": "2022-10-08T17:01:04.629003+07:00",
+  "extra": {
+    "hostname": "DESKTOP-LVFRH6J",
+    "memory_usage": "4 MB",
+    "git": {
+      "branch": "master",
+      "commit": "476cca454ef07c87ed09707f142468acff19b88b"
+    }
+  }
+}
