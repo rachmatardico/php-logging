@@ -1,0 +1,4 @@
+[2022-10-08T17:14:19.313261+07:00] Matt\PhpLogging\RotatingFileTest.INFO: Belajar PHP [] []
+[2022-10-08T17:14:19.318001+07:00] Matt\PhpLogging\RotatingFileTest.INFO: Belajar PHP OOP [] []
+[2022-10-08T17:14:19.318773+07:00] Matt\PhpLogging\RotatingFileTest.INFO: Belajar PHP Database [] []
+[2022-10-08T17:14:19.319661+07:00] Matt\PhpLogging\RotatingFileTest.INFO: Belajar PHP Web [] []
